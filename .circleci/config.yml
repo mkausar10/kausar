@@ -22,3 +22,4 @@ workflows:
   say-hello-workflow:
     jobs:
       - say-hello
+# Define a job to be invoked later in a workflow.yml
